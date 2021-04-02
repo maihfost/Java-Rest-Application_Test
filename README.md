@@ -15,12 +15,16 @@ Contains 3 Folders
 
 Installation:
 1.Import the Database(Data Import)
+
 2.Open project Java-Rest-Application_Test in Netbeans(or any other IDE) or use the terminal (mvn install)
 
 3.Insert your username and password in application.properties file
 	spring.datasource.username = ...
 	spring.datasource.password = ...
+
 4.Deploy on apache Tomcat
+
 5.Open Front End Folder in VS code
+
 6.Run with Live Server(Or any other server)
 
